@@ -1,4 +1,4 @@
-# Statistical Natural Language Processing - Group Assignment 2 - Sentence Representations for Sentiment Analysis on Twitter
+#### Statistical Natural Language Processing - Group Assignment 2 - Sentence Representations for Sentiment Analysis on Twitter
 
 This is second group assignment I completed as part of the Statistical Natural Language Processing module (MSc Web Science and Big Data Analytics) I undertook at UCL.
 
