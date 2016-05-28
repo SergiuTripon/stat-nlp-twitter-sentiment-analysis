@@ -1,12 +1,12 @@
 #### Statistical Natural Language Processing - Group Assignment 2 - Sentence Representations for Sentiment Analysis on Twitter
 
-This is second group assignment I completed as part of the Statistical Natural Language Processing module (MSc Web Science and Big Data Analytics) I undertook at UCL.
+This is second group assignment I completed as part of the Statistical Natural Language Processing module (MSc Web Science and Big Data Analytics) which I undertook at UCL.
 
 Repository contents:
 
 * Code folder consisting of the main source code in Scala
 * Predictions folder consisting of prediction made
-* Report folder consisting of the final report in PDF format
+* Report source code in LaTeX, and report in PDF format
 
 ---
 
