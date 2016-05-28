@@ -1,6 +1,6 @@
 #### Statistical Natural Language Processing - Group Assignment 2 - Sentence Representations for Sentiment Analysis on Twitter
 
-This is second group assignment I completed as part of the Statistical Natural Language Processing module (MSc Web Science and Big Data Analytics) which I undertook at UCL.
+This is second group assignment I completed as part of the [COMPGI19 - Statistical Natural Language Processing](http://www.cs.ucl.ac.uk/teaching_learning/syllabus/mscml/gi19_statistical_natural_language_processing/) module (MSc Web Science and Big Data Analytics) which I undertook at UCL.
 
 Repository contents:
 
@@ -20,6 +20,6 @@ The tasks to be completed in this assignment were:
 
 ---
 
-#####Instructions
+##### Instructions
 
 To run the source code, you have to manually set up a project in an IDE that supports Scala. For this assignment, IntelliJ IDEA IDE was used.
